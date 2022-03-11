@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/6dBiyMhUO8LZGSDq5zpSA1khWy2S7uTndU8bHQqeWDNOXaHJ+SxJaU2VDhPMC9mD3b3ZXhwRJ5SBfes8KEcZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\laura\\OneDrive\\Área de Trabalho\\C# - Bicudo\\Celulares73A\\Celulares73A.Model\\Celulares73A.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laura\\.nuget\\packages\\npgsql\\6.0.3\\npgsql.6.0.3.nupkg.sha512",
+    "C:\\Users\\laura\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

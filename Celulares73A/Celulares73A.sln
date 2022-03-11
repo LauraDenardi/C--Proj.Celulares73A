@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Celulares73A.Model", "Celulares73A.Model\Celulares73A.Model.csproj", "{4144948D-9711-4DE4-993F-2EED31F121AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celulares73A.Desktop", "Celulares.Desktop\Celulares73A.Desktop.csproj", "{64848AF1-73B9-4EB1-9D4B-75FE65C94648}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4144948D-9711-4DE4-993F-2EED31F121AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4144948D-9711-4DE4-993F-2EED31F121AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4144948D-9711-4DE4-993F-2EED31F121AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4144948D-9711-4DE4-993F-2EED31F121AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64848AF1-73B9-4EB1-9D4B-75FE65C94648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64848AF1-73B9-4EB1-9D4B-75FE65C94648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64848AF1-73B9-4EB1-9D4B-75FE65C94648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64848AF1-73B9-4EB1-9D4B-75FE65C94648}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66F7D371-D696-4613-8D28-88E664666A2B}
+	EndGlobalSection
+EndGlobal

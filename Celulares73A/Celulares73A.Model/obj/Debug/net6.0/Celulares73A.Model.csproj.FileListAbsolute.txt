@@ -1,0 +1,24 @@
+C:\Users\alunoi\Desktop\Celulares73A\Celulares73A.Model\bin\Debug\net6.0\Celulares73A.Model.deps.json
+C:\Users\alunoi\Desktop\Celulares73A\Celulares73A.Model\bin\Debug\net6.0\Celulares73A.Model.dll
+C:\Users\alunoi\Desktop\Celulares73A\Celulares73A.Model\bin\Debug\net6.0\ref\Celulares73A.Model.dll
+C:\Users\alunoi\Desktop\Celulares73A\Celulares73A.Model\bin\Debug\net6.0\Celulares73A.Model.pdb
+C:\Users\alunoi\Desktop\Celulares73A\Celulares73A.Model\obj\Debug\net6.0\Celulares73A.Model.csproj.AssemblyReference.cache
+C:\Users\alunoi\Desktop\Celulares73A\Celulares73A.Model\obj\Debug\net6.0\Celulares73A.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunoi\Desktop\Celulares73A\Celulares73A.Model\obj\Debug\net6.0\Celulares73A.Model.AssemblyInfoInputs.cache
+C:\Users\alunoi\Desktop\Celulares73A\Celulares73A.Model\obj\Debug\net6.0\Celulares73A.Model.AssemblyInfo.cs
+C:\Users\alunoi\Desktop\Celulares73A\Celulares73A.Model\obj\Debug\net6.0\Celulares73A.Model.csproj.CoreCompileInputs.cache
+C:\Users\alunoi\Desktop\Celulares73A\Celulares73A.Model\obj\Debug\net6.0\Celulares73A.Model.dll
+C:\Users\alunoi\Desktop\Celulares73A\Celulares73A.Model\obj\Debug\net6.0\ref\Celulares73A.Model.dll
+C:\Users\alunoi\Desktop\Celulares73A\Celulares73A.Model\obj\Debug\net6.0\Celulares73A.Model.pdb
+C:\Users\laura\OneDrive\Área de Trabalho\C# - Bicudo\Celulares73A\Celulares73A.Model\bin\Debug\net6.0\Celulares73A.Model.deps.json
+C:\Users\laura\OneDrive\Área de Trabalho\C# - Bicudo\Celulares73A\Celulares73A.Model\bin\Debug\net6.0\Celulares73A.Model.dll
+C:\Users\laura\OneDrive\Área de Trabalho\C# - Bicudo\Celulares73A\Celulares73A.Model\bin\Debug\net6.0\Celulares73A.Model.pdb
+C:\Users\laura\OneDrive\Área de Trabalho\C# - Bicudo\Celulares73A\Celulares73A.Model\obj\Debug\net6.0\Celulares73A.Model.csproj.AssemblyReference.cache
+C:\Users\laura\OneDrive\Área de Trabalho\C# - Bicudo\Celulares73A\Celulares73A.Model\obj\Debug\net6.0\Celulares73A.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\OneDrive\Área de Trabalho\C# - Bicudo\Celulares73A\Celulares73A.Model\obj\Debug\net6.0\Celulares73A.Model.AssemblyInfoInputs.cache
+C:\Users\laura\OneDrive\Área de Trabalho\C# - Bicudo\Celulares73A\Celulares73A.Model\obj\Debug\net6.0\Celulares73A.Model.AssemblyInfo.cs
+C:\Users\laura\OneDrive\Área de Trabalho\C# - Bicudo\Celulares73A\Celulares73A.Model\obj\Debug\net6.0\Celulares73A.Model.csproj.CoreCompileInputs.cache
+C:\Users\laura\OneDrive\Área de Trabalho\C# - Bicudo\Celulares73A\Celulares73A.Model\obj\Debug\net6.0\Celulares73A.Model.dll
+C:\Users\laura\OneDrive\Área de Trabalho\C# - Bicudo\Celulares73A\Celulares73A.Model\obj\Debug\net6.0\refint\Celulares73A.Model.dll
+C:\Users\laura\OneDrive\Área de Trabalho\C# - Bicudo\Celulares73A\Celulares73A.Model\obj\Debug\net6.0\Celulares73A.Model.pdb
+C:\Users\laura\OneDrive\Área de Trabalho\C# - Bicudo\Celulares73A\Celulares73A.Model\obj\Debug\net6.0\ref\Celulares73A.Model.dll
